@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+*.zip
+
+# Test files & outputs
+test_input/
+test_output/
+*_processed/
+
+# Environments
+venv/
+.venv/
+env/
